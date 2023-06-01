@@ -1,7 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=80)
+
 ### Hi there 👋
 
 <!--
 **Kimdohyun2002/Kimdohyun2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
@@ -15,6 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 프로그래밍의 대가 이름 김 도 현
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshkmn0929&show_icons=true&theme=dark)
+
+
 ### :남성_기술_전문가: 프로그래밍 & 마크업 언어
 <div>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"></a>
